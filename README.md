@@ -2,7 +2,7 @@
 
 [![titi](./assets/titi.svg)](https://github.com/TiTi-Finance/TiTi-Protocol) [![stablecoin](./assets/stable.svg)](https://github.com/TiTi-Finance/TiTi-Protocol)
 
-TiTi-Protocol is a new type of elastic supply algorithm stablecoin protocol based on decentralized Monopoly Auto Market Maker mechanism (M-AMM) and backed by Multi-Assets-Reserve. TiTi is the stablecoin issued by the protocol.
+TiTi-Protocol is a new type of elastic supply algorithm stablecoin protocol based on decentralized Monopoly Auto Market Maker mechanism (M-AMM) and backed by Multi-Assets-Reserve. TiUSD is the stablecoin issued by the protocol.
 
 ## Advantages
 
@@ -10,9 +10,9 @@ TiTi-Protocol is a new type of elastic supply algorithm stablecoin protocol base
 
 * **High capital efficiency:** Compared with over-collateralized stablecoins, TiTi Protocol has a higher capital efficiency;
 
-* **Stronger stable capability:** TiTi Protocol brings a new type of elastic supply algorithm stablecoin solution that incorporates the Multi-Assets-Reserve mechanism. The stabilization mechanism does not rely too much on the algorithm and is more efficient which ensures that there is sufficient value support behind each TiTi token;
+* **Stronger stable capability:** TiTi Protocol brings a new type of elastic supply algorithm stablecoin solution that incorporates the Multi-Assets-Reserve mechanism. The stabilization mechanism does not rely too much on the algorithm and is more efficient which ensures that there is sufficient value support behind each TiUSD token;
 
-* **Anti-Volatility risk:** By introducing the multi-assets reserve mechanism, the protocol amortizes the risk of individual asset fluctuations, thereby enhancing the risk resistance of the entire system. At the same time, the protocol introduces financial products such as MMF, which creates new game models, to further guarantees the stability of TiTi;
+* **Anti-Volatility risk:** By introducing the multi-assets reserve mechanism, the protocol amortizes the risk of individual asset fluctuations, thereby enhancing the risk resistance of the entire system. At the same time, the protocol introduces financial products such as MMF, which creates new game models, to further guarantees the stability of TiUSD;
 
 * **Scalability:** The architecture design of TiTi Protocol is easy to expand by introducing new type of reserve and the governance mechanism can effectively improve the protocol’s risk control ability during expansion process;
 
@@ -20,11 +20,11 @@ TiTi-Protocol is a new type of elastic supply algorithm stablecoin protocol base
 
 ### Monopoly-AMM
 
-This is a new design paradigm for algorithmic stablecoins. It is responsible for capturing the real-time supply and demand relationship of TiTi and dynamically adjusting the circulation of TiTi.
+This is a new design paradigm for algorithmic stablecoins. It is responsible for capturing the real-time supply and demand relationship of TiUSD and dynamically adjusting the circulation of TiUSD.
 
 ### ReOrders
 
-This is the core mechanism for controlling TiTi's price to remain stable in TiTi Protocol. It is built on CFMM, which greatly reduces gas consumption while realize price stability with utmost efficiency.
+This is the core mechanism for controlling TiUSD's price to remain stable in TiTi Protocol. It is built on CFMM, which greatly reduces gas consumption while realize price stability with utmost efficiency.
 
 ### Market Maker Fund
 
